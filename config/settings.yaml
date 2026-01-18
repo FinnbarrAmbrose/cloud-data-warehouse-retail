@@ -1,0 +1,9 @@
+gcp:
+  project_id: web-analytics-funnel
+  location: US
+
+bigquery:
+  raw_dataset: olist_raw
+  staging_dataset: olist_staging
+  warehouse_dataset: olist_warehouse_us
+  marts_dataset: olist_marts
