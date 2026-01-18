@@ -1,0 +1,19 @@
+# Python
+venv/
+.venv/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
+*.swp
+
+# Data (keep repo light; store samples only if needed)
+data/
+
+# Secrets
+config/keys/
+*.json
